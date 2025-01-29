@@ -15,7 +15,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre Plano de Refeições Vege
 ## 🚀 Resultados
 O e-book apresenta um um plano semestral de refeições vegetarianas detalhado, com um cardápio variado para cada semana, proporcionando uma alimentação equilibrada, saborosa e diversificada. O plano inclui receitas para todas as refeições do dia (café da manhã, almoço e jantar) e foca em pratos nutritivos e acessíveis, utilizando ingredientes frescos e integrais.
 
-["C:\Users\Ludi\Desktop\Plano de Refeições Vegetariano Semestral.pdf"]
+[lab-natty-or-not/Plano de Refeições Vegetariano Semestral.pdf at main · LudmillaRibeiro/lab-natty-or-not]
 
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
